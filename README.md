@@ -23,4 +23,5 @@ WPML must be set up with languages as parameters on url
 # Links
 
 woocommerce 		https://www.woothemes.com/woocommerce/
+
 woocommerce-api		https://www.npmjs.com/package/woocommerce-api
