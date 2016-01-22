@@ -19,3 +19,8 @@ Now you can add the lang value to the request object.
 Don't add the lang property for the default language.
 
 WPML must be set up with languages as parameters on url
+
+# Links
+
+woocommerce 		https://www.woothemes.com/woocommerce/
+woocommerce-api		https://www.npmjs.com/package/woocommerce-api
